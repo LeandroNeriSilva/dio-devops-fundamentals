@@ -14,7 +14,7 @@ O projeto tem como foco a compreensão da cultura DevOps, seus princípios e a a
 - Feedback contínuo
 
 ## 📂 Materiais de apoio
-- Pasta de materiais do projeto: ./materiais
+- Pasta de materiais do projeto: [materiais](./materiais)
 - Slides do estudo de caso apresentado em aula
 - Repositório base utilizado como referência
 
